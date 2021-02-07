@@ -15,7 +15,7 @@
     "url": "https://github.com/wireapp/wire-desktop.git"
   },
   "dependencies": {
-    "googleapis": "2.1.6",
+    "googleapis": "39.1.0",
     "image-type": "2.1.0",
     "minimist": "1.2.0",
     "open-graph": "0.2.1",
